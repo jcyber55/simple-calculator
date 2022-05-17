@@ -1,0 +1,148 @@
+INTRODUCTION
+A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division through voice assistant. More sophisticated calculators can handle exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions. Internally, some calculators actually perform all of these functions by repeated processes of addition.
+
+SCOPE OF THE PROJECT
+The machine would be able to perform operations such as addition, subtraction, multiplication, division, finding the square root of a number by using voice assistant. Rather than performing calculations manually as like other calculators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANAGEMENT
+
+1.	PROJECT SPONSOR
+Project Sponsors play a critical role in all projects. Project sponsors have the bandwidth to take on the Project Sponsor role, their day job and no other project role, therefore Project Sponsors are not Project Managers, Scrum Masters or Product Owners.
+
+
+2.	SUBJECT MATTER EXPERTS (SME)
+A Subject Matter Expert (SME) or Domain Expert is a person who is an authority in a particular area or topic. A Subject Matter Expert has superior (expert) knowledge of a discipline, technology, product, business process or entire business area.
+The SME role and responsibilities in software development could be summarised as follows: they are normally the people from whom technical requirements are captured.
+3.	PRODUCT OWNER
+Owner is a software development role for a person who represents the business or end-users and is responsible for working with the user group to determine what features will be in the product release.
+The Product Owner is also responsible for the prioritized backlog and maximizing the return on investment (ROI) of the software project. Part of this role’s responsibility includes documenting user stories or requirements for the software project.
+4.	PROJECT MANAGER (PM)
+The Project Manager (PM) is responsible for knowing the “who, what, where, when and why” of the software project. This means knowing the stakeholders of the project and being able to effectively communicate with each of them.
+The Project Manager is also responsible for creating and managing the project budget and schedule as well as processes including scope management, issues management and risk management.
+Some of the Project Manager duties can include:
+•	Developing a software project plan
+•	Manage deliverables according to the software project plan
+•	Recruiting software project staff
+•	Leading and managing the software project team
+•	Determining the methodology used on the project
+•	Establishing a project schedule and determine each phase
+•	Assigning tasks to project team members
+•	Providing regular updates to senior management
+It doesn’t matter if you are using an agile methodology or the waterfall method, once deliverables are defined, it is critical that the Project Manager starts to actively exercise change management. Change should not be perceived as negative or something to be avoided.
+5.	TECHNICAL LEAD
+This person translates the business requirements into a technical solution. Because of this responsibility, it is beneficial to have the Technical Lead involved in the planning phase to hear the business requirements from the customer’s point of view and ask questions.
+The Technical Lead is the development team leader and works with the developers to provide technical details and estimates for the proposed solution. This information is used by the Project Manager to create the Statement of Work and the Work Breakdown Structure documents for the software project.
+6.	SOFTWARE DEVELOPERS
+The Software Developers (front-end and back-end) are responsible for using the technical requirements from the Technical Lead to create cost and timeline estimates.
+The Software Developers are also responsible for building the deliverables and communicating the status of the software project to the Technical Lead or Project Manager.
+7.	 SOFTWARE TESTERS
+The Software Testers ensure that the software solution meets the business requirements and that it is free of bugs, errors and defects.
+In the test planning and preparation phases of the software testing, Software Testers should review and contribute to test plans, as well as be analyzing, reviewing and assessing technical requirements and design specifications.
+Software Testers are involved in identifying test conditions and creating test designs, test cases, test procedure specifications and test data, and may automate or help to automate the tests.
+Some of the Software Testers duties can include:
+•	They often set up the test environments or assist system administration and network management staff in doing so
+•	As test execution begins, the number of testers often increases, starting with the work required to implement tests in the test environment
+•	Testers execute and log the tests, evaluate the results and document problems found
+•	They monitor the testing and the test environment, often using tools for this task, and often gather performance metrics
+•	Throughout the software testing life cycle, they review each other’s work, including test specifications, defect reports and test results
+
+
+User Acceptance Testing (UAT) is the final step prior to a new software solution being released to production (live). It’s absolutely essential that you have the resources to tackle user acceptance testing in a timely and organized fashion, as it is often UAT that creates the bottleneck between the software solution being completed and released to the business.
+ 
+
+ACTIVITIES TO BE DONE IN THE PROJECT
+
+GENERAL ACTIVITY
+The general activity to be done within our group is to create simple calculator which will aid a student or any user to perform both mathematical and technical calculations by means of voice assistant. 
+
+TECHNICAL ACTIVITIES
+The following are the technical activities to be done so as to accomplish our program;
+1.	To create the software design to show how it will look like in real scenario.
+2.	To build the simple prototype to show demonstration of our software performance.
+3.	Coding, creating the real working program. This should be implemented by all members in which each member will work on his own module.
+4.	Testing of software performance. Both unit testing and individual testing of modules.
+5.	Deployment of program to the real environment.
+6.	Maintenance and updating of our program, if any.
+
+MANAGERIAL ACTIVITIES
+The following are the managerial activities to be done so as to accomplish our program;
+1.	Monitoring of the whole activities in our project plan, to be done by group chairman.
+2.	All issues concerning abuse, laziness and disobey of activities by any group member should be issued by discipline leader.
+3.	All progress and changes should be committed to master (chairman).
+4.	Changes tracking and confirmations should be done by chairman. Including accept and decline of changes.
+SCHEDULING
+The document identifies scheduling of project activities to be done in the group as arranged in sequence so as to accomplish our project;
+1.	Designing of program
+2.	Creating of program demo or prototype
+3.	Implementation involving coding and maintenance
+4.	Deployment should be done, involving demonstration and presentation of our program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+RESOURCES REQUIRED
+1.	Programming languages especially python.
+2.	Money tool.
+3.	Skilled personnel to design and write program codes.
+4.	Persistent memory.
+5.	Function resources such as data flow diagram which give the function description of the simple calculator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANTAINANCE PLAN.
+•	A frequent previewing of the made project should be done to maintain a well-being of used programming codes also to make any updating.
+
+•	The change or any updating to be done in our scientific programmable calculator project is after the team agreement due to new updates occurred basing on the calculator change basing on user preview and assumptions.
+
+•	The one concern with any change in the made project is the project Editor after the full agreement of the team to any update to be done.
+

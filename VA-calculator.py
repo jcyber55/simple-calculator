@@ -1,0 +1,1 @@
+print("A simple voice assistant calcutor")
